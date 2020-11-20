@@ -1,5 +1,7 @@
 # unwoke
 
+![example.png](./example.png)
+
 tired of tech companies telling you how woke they are?
 
 make the web a better place and block "wokeness" from developer documentations

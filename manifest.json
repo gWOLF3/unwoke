@@ -1,11 +1,11 @@
 {
-  "name": "sjwblock",
+  "name": "unwoke",
   "version": "1.0",
   "manifest_version": 2,
   "description": "please dont shill in your documentation",
   "content_scripts": [
     {
-      "matches": ["*://developer.android.com/*"],
+      "matches": ["*://developer.android.com/*", "*://developers.google.com/*" ],
       "css": ["main.css"]
     }
   ]
