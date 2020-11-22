@@ -1,4 +1,40 @@
+/* https://developers.google.com/ */
+/* https://firebase.google.com/ */
+/* https://developer.android.com/ */
 .devsite-banner-announcement {
+  visibility: hidden;
+  display: none;
+}
+
+/* https://nodejs.org/en/ */
+.home-blacklivesmatterblock {
+  visibility: hidden;
+  display: none;
+}
+
+/* https://expressjs.com/ */
+#blm-banner {
+  visibility: hidden;
+  display: none;
+}
+header {
+  height: 60px !important;
+}
+#logo .express {
+  margin-top: 0 !important;
+}
+#home-content {
+  margin: 65px 0 2% 5% !important;
+}
+
+/* https://redux.js.org/ */
+#__docusaurus > div > div {
+  visibility: hidden;
+  display: none;
+}
+
+/* https://styled-components.com/ */
+#__next > div > div:nth-child(1) > nav > a {
   visibility: hidden;
   display: none;
 }

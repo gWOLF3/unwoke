@@ -5,7 +5,15 @@
   "description": "please dont shill in your documentation",
   "content_scripts": [
     {
-      "matches": ["*://developer.android.com/*", "*://developers.google.com/*" ],
+      "matches": [
+        "*://developer.android.com/*",
+        "*://developers.google.com/*",
+        "*://firebase.google.com/*",
+        "*://nodejs.org/en/*",
+        "*://expressjs.com/*",
+        "*://redux.js.org/*",
+        "*://styled-components.com/*"
+      ],
       "css": ["main.css"]
     }
   ]
